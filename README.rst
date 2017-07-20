@@ -4,17 +4,17 @@ Project: Prediction of Accident prone locations
 Participants
 ============
 
-Nandini, Goswami, FG-16-3007, goswamin, goswamin@iu.edu
+Nandini Goswami, FG-16-3007, goswamin, goswamin@iu.edu
 
-Bhateja, Sarita, FG-16-3003, sbhateja, sbhateja@iu.edu
+Bhateja Sarita, FG-16-3003, sbhateja, sbhateja@iu.edu
 
-Guruprasad, Kavya, FG-16-3008, kavya_prasad, prasadk@iu.edu
+Guruprasad Kavya, FG-16-3008, kavya_prasad, prasadk@iu.edu
 
 
 Abstract
 ========
 
-The paper discusses the prediction of road accidents. We have UK road accident dataset for year 2015. The problem is treated as a machine learning classification problem and the outcome is classified as severity of accident on a range of 1-3 where 1 is the least severe and 3 is the most severe. The results have been visualized using bar graphs, line chart, histogram etc. Also, the location of various accident prone areas have been plotted on map. The data related to latitude and longitude of such locations in the dataset helped to achieve it.
+The paper discusses the prediction of road accidents. We have takesn UK road accident dataset for year 2015. The problem is treated as a machine learning classification problem and the target class is accident severity on a range of 1-3 where 1 is the least severe and 3 is the most severe. The results have been visualized using bar graphs, line chart, histogram etc. Also, the location of various accident prone areas have been plotted on map. The data related to latitude and longitude of such locations in the dataset helped to achieve it.
 
 References
 ==========
